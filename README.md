@@ -1,4 +1,8 @@
-### Hi there 👋
+### Havoš / Maťa
+
+- 😄 she/they
+- 💬 slovak, english, toki pona
+- 📫 discord: mhavos#8227
 
 <!--
 **mhavos/mhavos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
