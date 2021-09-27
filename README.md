@@ -1,7 +1,6 @@
 ### Havoš / Maťa
 
-- 😄 she/they
-- 💬 slovak, english, toki pona
+- 💬 she/they
 - 📫 discord: mhavos#8227
 
 <!--
