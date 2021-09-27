@@ -1,4 +1,4 @@
-### Havoš / Maťa
+### Havoš
 
 - 💬 she/they
 - 📫 discord: mhavos#8227
