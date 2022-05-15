@@ -1,6 +1,6 @@
 ### Matea / Maťa
 
-- 💬 she/they
+- 💬 she/her
 - 📫 discord: m_tea#8227
 
 <!--
