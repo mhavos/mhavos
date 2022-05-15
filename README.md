@@ -1,7 +1,7 @@
 ### Matea / Maťa
 
 - 💬 she/they
-- 📫 discord: mhavos#8227
+- 📫 discord: m_tea#8227
 
 <!--
 **mhavos/mhavos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
